@@ -19,11 +19,11 @@ BAP was born from a need at work that required very repetitive tasks within syst
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTrivelli&layout=compact)
 
+![](https://api.githubtrends.io/user/svg/DanielTrivelli/repos?time_range=one_year&theme=classic)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielTrivelli&theme=light&hide_border=false&include_all_commits=true&count_private=true)
 
-
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DanielTrivelli&hide_progress=true)
-
 
 
 
