@@ -4,9 +4,9 @@
 
 ## Open Source Projects
 
-#### [DecMore](https://github.com/DanielTrivelli/decmore)
+#### [DecMore](https://github.com/DanielTrivelli/decmore) 
+![](https://img.shields.io/pypi/v/decmore.svg) ![](https://img.shields.io/github/release-date/DanielTrivelli/decmore) ![](https://img.shields.io/pypi/pyversions/decmore.svg) [![wakatime](https://wakatime.com/badge/github/DanielTrivelli/decmore.svg)](https://wakatime.com/badge/github/DanielTrivelli/decmore)
 
-![](https://img.shields.io/pypi/v/decmore.svg) ![](https://img.shields.io/github/release-date/DanielTrivelli/decmore) ![](https://img.shields.io/pypi/pyversions/decmore.svg)
 
 DecMore is a python library for developers to easily implement complex and highly scalable decorators, as well as to debug performance and force typing of functions.
 
