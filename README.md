@@ -23,7 +23,6 @@ BAP was born from a need at work that required very repetitive tasks within syst
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielTrivelli&theme=light&hide_border=false&include_all_commits=true&count_private=true)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DanielTrivelli&hide_progress=true)
 
 
 
